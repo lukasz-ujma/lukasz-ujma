@@ -13,7 +13,7 @@
 'Python' | 'Selenium' | 'Postman' | 'Jira' | 'Git' | 'TestLink' | 'SQL' | 'Linux'
 
 📌 Najnowsze projekty:
-- Plan testów, przypadki testowe, egzekucja testów, raport z wynikami - TestLink
+- Plan testów, przypadki testowe, wykonywanie testów, raport z wynikami - TestLink
 
 
 <!--
