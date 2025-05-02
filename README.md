@@ -1,4 +1,20 @@
-## Hi there 👋
+### 👋 Cześć! Nazywam się Łukasz
+
+🔍 Przebranżawiam się z bankowości na testera oprogramowania.  
+🚀 Uczę się testowania manualnego i automatyzacji z Pythonem i Selenium.  
+🎯 Celem jest zdobycie pierwszej pracy jako Junior QA.
+
+📚 Obecnie:  
+- Kurs tester manualny  
+- Nauka Python + Selenium  
+- Przygotowanie do ISTQB FL
+
+🧪 Technologie:  
+'Python' | 'Selenium' | 'Postman' | 'Jira' | 'Git' | 'TestLink' | 'SQL' | 'Linux'
+
+📌 Najnowsze projekty:
+- Plan testów, przypadki testowe, egzekucja testów, raport z wynikami - TestLink
+
 
 <!--
 **lukasz-ujma/lukasz-ujma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
