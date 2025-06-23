@@ -13,7 +13,7 @@
 'Python' | 'Selenium' | 'Postman' | 'Jira' | 'Git' | 'TestLink' | 'SQL' | 'Linux' | 'Apache JMeter'
 
 📌 Najnowsze projekty:
-- Plan testów, przypadki testowe, wykonywanie testów, raport z wynikami - TestLink, Apache JMeter
+- Plan testów, przypadki testowe, wykonywanie testów, raport z wynikami - TestLink, Apache JMeter, Jira
 
 
 <!--
