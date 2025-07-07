@@ -14,6 +14,7 @@
 
 📌 Najnowsze projekty:
 - Plan testów, przypadki testowe, wykonywanie testów, raport z wynikami - TestLink, Apache JMeter, Jira
+- Testowanie REST API, tworzenie kolekcji zapytań, parametrów i zmiennych, automatyzacja testów - Postman, Newman, Jenkins
 
 
 <!--
