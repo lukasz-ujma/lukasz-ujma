@@ -10,7 +10,7 @@
 - Przygotowanie do ISTQB FL
 
 🧪 Technologie:  
-'Python' | 'Selenium' | 'Postman' | 'Jira' | 'Git' | 'TestLink' | 'SQL' | 'Linux' | 'Apache JMeter'
+'Python' | 'Selenium' | 'Postman' | 'Jira' | 'Git' | 'TestLink' | 'SQL' | 'Linux' | 'Apache JMeter' | 'Newman' | 'Jenkins'
 
 📌 Najnowsze projekty:
 - Plan testów, przypadki testowe, wykonywanie testów, raport z wynikami - TestLink, Apache JMeter, Jira
